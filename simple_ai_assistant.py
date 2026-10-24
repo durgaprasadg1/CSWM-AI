@@ -11,6 +11,7 @@ client = OpenAI(
     api_key = os.getenv('API_KEY')
 )
 messages = []
+MAX_STEPS=5  # safety limit for tool calling, to avoid infinite loops in case of bugs in the model or tools
 
 messages.append(
     {
@@ -37,7 +38,7 @@ while True:
         )
     
     #chained tool calling
-    while True:
+    for steps in range(MAX_STEPS):
 
         response = client.chat.completions.create(
                 model=os.getenv("MODEL"),
@@ -55,11 +56,15 @@ while True:
 
         for tool_call in msg.tool_calls:
             func_name = tool_call.function.name
-            func_args = json.loads(tool_call.function.arguments or "{}")
+            func_args = {}
 
-
-            fn = FUNCTION_NAME_TO_FUNCTION_IMPLE_MAP[func_name]
-            result = fn(**func_args)
+            try:
+                func_args = json.loads(tool_call.function.arguments or "{}")
+                fn = FUNCTION_NAME_TO_FUNCTION_IMPLE_MAP[func_name]
+                result = fn(**func_args)
+                
+            except Exception as e:
+                result = f"Error occurred while executing the tool '{func_name}': {str(e)}"
 
             messages.append({
                 "role":"tool", 
