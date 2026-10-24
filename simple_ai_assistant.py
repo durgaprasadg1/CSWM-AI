@@ -1,5 +1,7 @@
 from openai import OpenAI
 from dotenv import load_dotenv
+from tools import tools, FUNCTION_NAME_TO_FUNCTION_IMPLE_MAP
+import json
 import os
 
 
@@ -27,24 +29,50 @@ while True:
 
 
     # added query
-    messages.append(
-            {
+    messages.append({
                 "role": "user", 
                 "content":client_query 
+                
             }
         )
     response = client.chat.completions.create(
-        model=os.getenv('MODEL'),
-        messages=messages
+        model=os.getenv("MODEL"),
+        messages=messages,
+        tools=tools,
     )
-    res = response.choices[0].message.content
 
-    # added reply
-    messages.append(
-                {
-                    "role": "assistant", 
-                    "content": res
-                }
-            )
 
-    print("Assistant :", res)
+    msg = response.choices[0].message
+
+    if msg.tool_calls:
+        messages.append(msg)
+
+        for tool_call in msg.tool_calls:
+            func_name = tool_call.function.name
+            func_args = json.loads(tool_call.function.arguments or "{}")
+
+
+            fn = FUNCTION_NAME_TO_FUNCTION_IMPLE_MAP[func_name]
+            result = fn(**func_args)
+
+            messages.append({
+                "role":"tool", 
+                "tool_id" : tool_call.id,
+                "content": str(result),
+            })
+
+    # second call to LLM API
+        response = client.chat.completions.create(
+            model=os.getenv("MODEL"),
+            messages=messages,
+            tools=tools,
+        )
+    
+        msg = response.choices[0].message
+
+    messages.append({
+        "role":"assistant",
+        "content":msg.content
+    })
+
+    print("Assistant: ", msg.content)
