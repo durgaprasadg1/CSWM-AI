@@ -15,7 +15,7 @@ messages = []
 messages.append(
     {
         "role":"system",
-        "content": "Act as the technical person, who responds in 100 words."
+        "content": "Act as the technical person, who responds in 10 words."
     }
 )
 while True:
@@ -35,16 +35,22 @@ while True:
                 
             }
         )
-    response = client.chat.completions.create(
-        model=os.getenv("MODEL"),
-        messages=messages,
-        tools=tools,
-    )
+    
+    #chained tool calling
+    while True:
 
+        response = client.chat.completions.create(
+                model=os.getenv("MODEL"),
+                messages=messages,
+                tools=tools,
+            )
+        
+        
+        msg = response.choices[0].message
 
-    msg = response.choices[0].message
+        if not msg.tool_calls:
+            break
 
-    if msg.tool_calls:
         messages.append(msg)
 
         for tool_call in msg.tool_calls:
@@ -61,14 +67,7 @@ while True:
                 "content": str(result),
             })
 
-    # second call to LLM API
-        response = client.chat.completions.create(
-            model=os.getenv("MODEL"),
-            messages=messages,
-            tools=tools,
-        )
     
-        msg = response.choices[0].message
 
     messages.append({
         "role":"assistant",

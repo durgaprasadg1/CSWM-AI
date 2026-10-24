@@ -14,6 +14,9 @@ def get_city_weather(city):
     else :
         return f"Could not retrieve weather information for {city}. Please try again later."
 
+def get_current_city():
+    return "Gondia"
+
 tools=[
     {
         "type":"function",
@@ -40,6 +43,14 @@ tools=[
                 "required" : ["city"]
             }
         }
+    },
+    {
+        "type" : "function",
+        "function":{
+            "name": "get_current_city",
+            "description": "Returns the current city of user, useful when he use terms like my city, my location, current city, where I live, etc.",
+            "parameters": {"type" : "object",  "properties":{}}
+        }
     }
 ]
 
@@ -47,6 +58,7 @@ tools=[
 FUNCTION_NAME_TO_FUNCTION_IMPLE_MAP = {
     "get_current_time": get_current_time,
     "get_city_weather": get_city_weather,
+    "get_current_city": get_current_city
 }
 
 
