@@ -1,6 +1,7 @@
 from datetime import datetime
+from utilities.utilities import log
 import requests
-
+import json
 
 def get_current_time():
     return datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -9,10 +10,11 @@ def get_city_weather(city):
     url = f"https://wttr.in/{city}/?format=3"
 
     response = requests.get(url, timeout=10)
-    if response.status_code == 200:
-        return response.text
-    else :
-        return f"Could not retrieve weather information for {city}. Please try again later."
+
+    response.raise_for_status() #Agr kuch fat ta hai error aata hai to yha hit hoga aur agent loop me catch (except) me fasega. else response jaega
+        
+    return response.text
+    
 
 def get_current_city():
     return "Gondia"
@@ -87,3 +89,23 @@ FUNCTION_NAME_TO_FUNCTION_IMPLE_MAP = {
 #     }
 
 # Aisa hota hai ek ek tool + params
+
+
+def runTool(tool_call):
+    func_name = tool_call.function.name
+    func_args = {}
+
+    try:
+        func_args = json.loads(tool_call.function.arguments or "{}")
+
+        log(f" 🪛 Executing tool '{func_name}' with arguments: {func_args}")
+
+        fn = FUNCTION_NAME_TO_FUNCTION_IMPLE_MAP[func_name]
+        result = fn(**func_args)
+
+
+    except Exception as e:
+        result = f"Error occurred while executing the tool '{func_name}': {str(e)}"
+
+    log(f" ➡️ { result}")
+    return result

@@ -1,8 +1,13 @@
+# std libs
+import os
+
+#3rd party libs
 from openai import OpenAI
 from dotenv import load_dotenv
-from tools import tools, FUNCTION_NAME_TO_FUNCTION_IMPLE_MAP
-import json
-import os
+
+#local libs
+from tools import tools, runTool
+from utilities.utilities import log
 
 
 load_dotenv() # import env vars
@@ -16,7 +21,7 @@ MAX_STEPS=5  # safety limit for tool calling, to avoid infinite loops in case of
 messages.append(
     {
         "role":"system",
-        "content": "Act as the technical person, who responds in 10 words."
+        "content": "You are the one who responds to Science, Technology, Engineering, and Mathematics (STEM) related queries. response must be in 100 words and also give suggestions for further reading to user."
     }
 )
 while True:
@@ -48,6 +53,7 @@ while True:
         
         
         msg = response.choices[0].message
+        log(f"{steps+1} model requested {len(msg.tool_calls)} tool calls.")
 
         if not msg.tool_calls:
             break
@@ -55,16 +61,7 @@ while True:
         messages.append(msg)
 
         for tool_call in msg.tool_calls:
-            func_name = tool_call.function.name
-            func_args = {}
-
-            try:
-                func_args = json.loads(tool_call.function.arguments or "{}")
-                fn = FUNCTION_NAME_TO_FUNCTION_IMPLE_MAP[func_name]
-                result = fn(**func_args)
-                
-            except Exception as e:
-                result = f"Error occurred while executing the tool '{func_name}': {str(e)}"
+            result = runTool(tool_call)
 
             messages.append({
                 "role":"tool", 
@@ -73,10 +70,20 @@ while True:
             })
 
     
+    else: # else after for loop, executed when break is not called, i.e. max steps reached
 
+        fallback_msg = "Sorry, I could not finish task within step limit."
+        messages.append({
+            "role":"assistant",
+            "content": fallback_msg
+        })
+        print("Assistant: ", fallback_msg)
+        continue
+
+        
     messages.append({
         "role":"assistant",
         "content":msg.content
     })
 
-    print("Assistant: ", msg.content)
+    print("Assistant: ", msg.content or "")
