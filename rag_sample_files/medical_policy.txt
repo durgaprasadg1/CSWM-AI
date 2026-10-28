@@ -1,0 +1,24 @@
+COMPANY KNOWLEDGE BASE: MEDICAL AND WELLNESS BENEFITS
+Last updated: 15 October 2026
+Owner: Benefits Team
+
+1. Scope
+This fictional document summarizes example medical benefits for RAG practice.
+
+2. Coverage
+Eligible full-time employees may enroll in the company-sponsored health plan. Coverage options, dependants, waiting periods, exclusions, and premiums are defined in the official plan documents.
+
+3. Enrollment
+New employees should review plan options and complete enrollment within 30 days of their start date. Employees who miss the window should contact the Benefits Team to understand whether a qualifying life event or the next enrollment period permits a change.
+
+4. Claims
+Employees should submit claims through the insurer's official portal and retain receipts and supporting documents. Claim approval is determined by the insurer and the plan terms.
+
+5. Emergency situations
+For a medical emergency, contact local emergency services or go to the nearest emergency facility. Do not wait for HR approval before seeking emergency care.
+
+6. Privacy
+Employees should share medical information only through approved confidential channels. Managers generally need work-related accommodation information, not unnecessary clinical details.
+
+7. Disclaimer
+This is synthetic training content and does not describe a real insurance plan.

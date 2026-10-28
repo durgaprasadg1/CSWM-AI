@@ -1,0 +1,27 @@
+COMPANY KNOWLEDGE BASE: LEAVE POLICY
+Last updated: 15 October 2026
+Owner: Human Resources
+
+1. Scope
+This is a fictional example leave policy for demonstrating retrieval-augmented generation (RAG).
+
+2. Annual leave
+Full-time employees receive 18 days of annual leave per calendar year, prorated for eligible employees who join during the year. Local law or an employment agreement may provide different entitlements.
+
+3. Sick leave
+Employees may use up to 8 days of sick leave per calendar year under this sample policy. A medical certificate may be requested for absences longer than 3 consecutive working days, subject to applicable law.
+
+4. Public holidays
+The company publishes a location-specific holiday calendar each year. Employees should consult the HR portal for the calendar applicable to their work location.
+
+5. Request and approval
+- Submit planned leave through the HR portal.
+- For planned leave of 3 or more consecutive working days, provide at least 5 working days' notice when practical.
+- The manager reviews team coverage and approves or declines the request.
+- For unexpected illness, notify the manager as soon as reasonably possible and record the leave when able.
+
+6. Carryover
+Unused annual leave may carry over up to 5 days into the next calendar year in this sample policy. Carried-over leave expires on 31 March unless local requirements say otherwise.
+
+7. Important note
+These numbers are invented for learning. They must not be treated as actual employment terms.

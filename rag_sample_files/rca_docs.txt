@@ -1,0 +1,29 @@
+COMPANY KNOWLEDGE BASE: ROOT CAUSE ANALYSIS (RCA)
+Last updated: 15 October 2026
+Owner: Engineering Operations
+
+1. Purpose
+A Root Cause Analysis (RCA) documents what happened during an incident, why it happened, how it was resolved, and what will prevent recurrence.
+
+2. Required sections
+- Incident summary and customer impact.
+- Start time, detection time, mitigation time, and resolution time.
+- Systems and services affected.
+- Timeline of important events.
+- Root cause and contributing factors.
+- Immediate remediation.
+- Corrective and preventive actions, each with an owner and due date.
+- Lessons learned.
+
+3. Blameless approach
+Focus on system conditions, technical causes, process gaps, and safeguards rather than assigning personal blame. Be factual and distinguish confirmed evidence from hypotheses.
+
+4. Example
+Incident: Internal reporting API returned HTTP 503 for 18 minutes.
+Impact: Some dashboard refreshes failed.
+Root cause: A deployment changed the connection pool limit without load testing.
+Mitigation: Roll back the deployment and restore the previous pool configuration.
+Prevention: Add load-test coverage and an alert for connection-pool saturation.
+
+5. Follow-up
+Action owners should update the incident tracker until each preventive action is completed. Engineering Operations reviews overdue high-priority actions weekly.

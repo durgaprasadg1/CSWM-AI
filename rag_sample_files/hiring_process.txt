@@ -1,0 +1,24 @@
+COMPANY KNOWLEDGE BASE: HIRING PROCESS
+Last updated: 15 October 2026
+Owner: Talent Acquisition
+
+1. Purpose
+This document explains the standard hiring process for full-time employees at ExampleTech. It is a fictional sample policy created for RAG learning.
+
+2. Hiring stages
+- Role approval: The hiring manager submits a role request with the job description, level, budget, and business justification.
+- Recruiter screening: Talent Acquisition reviews applications and conducts an initial discussion about experience, availability, and compensation expectations.
+- Technical or role assessment: Candidates complete a role-relevant interview, exercise, or assessment.
+- Interview panel: The hiring manager and panel assess skills using the same role criteria.
+- Reference and background checks: These checks are conducted only with the candidate's consent and according to applicable law.
+- Offer approval: Compensation and role details must be approved before an offer is sent.
+- Onboarding: After acceptance, HR coordinates documentation, equipment, and the joining schedule.
+
+3. Typical timeline
+A standard hiring cycle may take 2–4 weeks, but timelines vary by role, interview availability, and background checks. This is an estimate, not a guarantee.
+
+4. Candidate communication
+Recruiters should share the next step and an estimated response date after each interview. Candidates may contact their recruiter for a status update.
+
+5. Exceptions
+Urgent hiring or senior roles may use a modified process if Talent Acquisition and the hiring manager approve it.

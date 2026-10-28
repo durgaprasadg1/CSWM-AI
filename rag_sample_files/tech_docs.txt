@@ -1,0 +1,28 @@
+COMPANY KNOWLEDGE BASE: TECHNICAL SUPPORT AND ACCESS
+Last updated: 15 October 2026
+Owner: IT Operations
+
+1. Account access
+Use single sign-on (SSO) for supported company applications. Enable multi-factor authentication (MFA) wherever required. Never share passwords, recovery codes, or authentication tokens.
+
+2. Access requests
+Submit access requests through the IT service desk. Include the application name, business justification, required role, manager approval when applicable, and the duration for temporary access.
+
+3. Troubleshooting
+- Check the service status page for a known outage.
+- Confirm network connectivity and whether the issue affects one application or several.
+- Capture the exact error message and timestamp.
+- Avoid posting secrets, customer data, or access tokens in tickets.
+- If the issue persists, open a service desk ticket with safe diagnostic details.
+
+4. Incident severity
+P1: Critical service unavailable for many users or major business operations.
+P2: Major degradation with a significant workaround or limited scope.
+P3: Individual or limited-impact issue with a reasonable workaround.
+P4: General question or low-priority request.
+
+5. Security incidents
+Report suspected phishing, lost devices, exposed credentials, or unauthorized access to the security team immediately using the official incident reporting channel.
+
+6. Change management
+Production changes require an approved change record, a rollback plan, and appropriate testing unless an authorized emergency process applies.

@@ -1,0 +1,27 @@
+COMPANY KNOWLEDGE BASE: TRAVEL AND EXPENSE REIMBURSEMENT
+Last updated: 15 October 2026
+Owner: Finance Operations
+
+1. Scope
+This fictional policy is intended for testing RAG retrieval and question answering.
+
+2. Before booking
+Obtain manager approval before making business travel commitments. Prefer approved booking channels and reasonable, cost-effective options that meet business needs.
+
+3. Example spending limits
+- Hotel: up to INR 6,000 per night before taxes, unless an exception is approved.
+- Meals during approved business travel: up to INR 1,200 per day.
+- Local ground transport: reasonable actual costs with receipts where available.
+These are invented sample limits, not real company rules.
+
+4. Expense submission
+Submit expenses in the expense portal within 15 calendar days after the trip ends. Include the business purpose, date, category, amount, currency, and itemized receipt when required.
+
+5. Reimbursement
+Finance reviews submissions for policy compliance and complete documentation. Incomplete claims may be returned for correction. Approved reimbursements are normally processed in the next scheduled payment cycle.
+
+6. Exceptions
+Obtain written approval for expenses above the sample limits before spending when practical. Explain unavoidable exceptions in the claim.
+
+7. Non-reimbursable items
+Personal entertainment, personal shopping, traffic fines, and expenses unrelated to business are not reimbursable under this sample policy.
