@@ -6,23 +6,7 @@ import os
 load_dotenv() # import env vars
 
 
-
-def generate_embeddings(text):
-    response = client.embeddings.create(
-        model=os.getenv("EMBED_MODEL"),
-        # input="I am a good boy"
-        input=text
-    )
-    return response.data[0].embedding
-
-
-def cosine_similarity(vec1 ,vec2):
-    dot_prod = np.dot(vec1, vec2)
-    norm_a = np.linalg.norm(vec1)
-    norm_b = np.linalg.norm(vec2)
-    return dot_prod / (norm_a * norm_b)
-
-
+ 
 client  = OpenAI(
     base_url = os.getenv('BASE_URL') , #ollama running hai iss jagah pe 
     api_key = os.getenv('API_KEY')
