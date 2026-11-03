@@ -1,27 +1,54 @@
-COMPANY KNOWLEDGE BASE: LEAVE POLICY
-Last updated: 15 October 2026
-Owner: Human Resources
+ZORVEX TECHNOLOGIES — LEAVE AND TIME-OFF POLICY
+Policy ID HR-LEAVE-001 | Version 2.0 | Effective 1 November 2026
+Owner: Human Resources | Scope: India-based employees, subject to applicable law and contract.
 
-1. Scope
-This is a fictional example leave policy for demonstrating retrieval-augmented generation (RAG).
+IMPORTANT: This is fictional training content. Entitlements and figures are illustrative company benefits, not legal advice. Applicable Indian central/state laws, establishment rules, and employment contracts prevail wherever they provide a greater or different entitlement.
 
-2. Annual leave
-Full-time employees receive 18 days of annual leave per calendar year, prorated for eligible employees who join during the year. Local law or an employment agreement may provide different entitlements.
+1. LEAVE YEAR AND ADMINISTRATION
+The leave year is 1 January–31 December. Leave is recorded in the HR portal. Employees should check balances before applying. Apply with dates, leave category, and handover details. Managers should normally respond to planned requests within 3 working days. Silence is not approval. Notify the manager as soon as reasonably possible for emergencies. Medical and family documents must be submitted only through confidential HR channels.
 
-3. Sick leave
-Employees may use up to 8 days of sick leave per calendar year under this sample policy. A medical certificate may be requested for absences longer than 3 consecutive working days, subject to applicable law.
+2. CASUAL LEAVE (CL)
+Illustrative entitlement: 12 working days per calendar year, credited monthly. Use for personal work, urgent family needs, or short absences. Request at least one working day ahead where practical. For emergencies, notify the manager and submit the portal request later. Casual leave is not normally carried forward or encashed.
 
-4. Public holidays
-The company publishes a location-specific holiday calendar each year. Employees should consult the HR portal for the calendar applicable to their work location.
+3. EARNED / PRIVILEGE LEAVE (EL/PL)
+Illustrative entitlement: 18 working days per year, accrued at 1.5 days per completed month. Use for planned vacations and extended personal commitments. Requests of 3 or more consecutive working days should normally be submitted 10 calendar days in advance. Sample carry-forward ceiling: 30 days. Encashment and separation treatment follow applicable law and contract.
 
-5. Request and approval
-- Submit planned leave through the HR portal.
-- For planned leave of 3 or more consecutive working days, provide at least 5 working days' notice when practical.
-- The manager reviews team coverage and approves or declines the request.
-- For unexpected illness, notify the manager as soon as reasonably possible and record the leave when able.
+4. SICK LEAVE (SL)
+Illustrative entitlement: 12 working days per year. Use for illness, injury, medical appointments, treatment, and recovery. Inform the manager before the shift where possible. A medical certificate may be requested for an absence exceeding 2 consecutive working days, subject to applicable law and consistent administration. Medical records remain confidential.
 
-6. Carryover
-Unused annual leave may carry over up to 5 days into the next calendar year in this sample policy. Carried-over leave expires on 31 March unless local requirements say otherwise.
+5. MATERNITY LEAVE
+Eligible employees receive maternity leave and protections under the Maternity Benefit Act, 1961, as amended, and other applicable law. As a general statutory reference, eligible women with fewer than two surviving children may receive up to 26 weeks, with no more than 8 weeks before the expected delivery date; for two or more surviving children, the general entitlement is up to 12 weeks, with no more than 6 weeks before delivery. Eligibility, establishment coverage, adoption/commissioning provisions, and individual circumstances must be checked against current law. Contact HR as early as practical. Submit statutory notice and required documents confidentially. Nursing breaks, work-from-home possibilities where the role permits, and crèche obligations are handled as required by applicable law. Maternity leave is not deducted from ordinary casual or earned leave.
 
-7. Important note
-These numbers are invented for learning. They must not be treated as actual employment terms.
+6. PATERNITY / PARTNER LEAVE
+Illustrative Company benefit: 10 paid working days after the birth of a child, to be used within 90 days of birth. It may be taken continuously or in two blocks with HR/manager approval. Provide reasonable notice and proof of birth through the confidential HR channel. This is a sample private-company benefit, not a general statutory paternity entitlement for all private-sector employees in India.
+
+7. ADOPTION AND COMMISSIONING PARENT LEAVE
+Statutory leave for adopting and commissioning mothers is governed by applicable law, including the Maternity Benefit Act where applicable. The Company also provides an illustrative 10 working days of paid bonding leave to an eligible non-birth parent after placement or birth. Contact HR before the expected placement date. Submit only the documents needed to verify eligibility.
+
+8. BEREAVEMENT LEAVE
+Illustrative benefit: up to 5 paid working days after the death of a spouse, child, parent, sibling, or a person for whom the employee was primary caregiver; up to 2 days for a grandparent, parent-in-law, or other close relative. HR may approve additional earned or unpaid leave for travel or exceptional circumstances.
+
+9. MARRIAGE LEAVE
+Illustrative benefit: 3 paid working days for an employee's own marriage, once during employment. Request 15 days in advance where practical. This is separate from earned leave.
+
+10. COMPENSATORY OFF
+Work on a weekly off or declared holiday qualifies only when approved in advance by the manager and recorded in the HR portal. Use approved comp-off within 60 days, subject to operational needs and applicable law. Staying late on a normal workday does not automatically create comp-off.
+
+11. UNPAID LEAVE / LEAVE WITHOUT PAY
+When paid balances are exhausted, employees may request unpaid leave. Approval is discretionary except where law protects the absence. Payroll deductions follow applicable rules. Unapproved absence may be reviewed under the disciplinary process.
+
+12. PUBLIC HOLIDAYS AND OPTIONAL HOLIDAYS
+The Company publishes a location-specific annual holiday calendar. Employees may select up to 2 optional holidays from the published list with manager approval. Weekly offs and holidays during leave are treated according to applicable law, location rules, and HR system configuration.
+
+13. PROBATION, NOTICE PERIOD AND SEPARATION
+Leave accrual begins on joining unless the contract says otherwise. Planned leave during probation or notice period requires approval, but statutory rights remain unaffected. Unused balances at separation are settled according to applicable law and contract.
+
+14. EXTENSION, CANCELLATION AND ESCALATION
+Request extensions before the approved end date. In emergencies, notify the manager as soon as possible. Raise balance errors, inconsistent decisions, or eligibility questions with HR Operations. If this policy conflicts with law, law prevails.
+
+15. QUICK REFERENCE — ILLUSTRATIVE COMPANY BENEFITS
+Casual: 12 days/year | Earned: 18 days/year | Sick: 12 days/year
+Partner/paternity: 10 working days | Marriage: 3 working days
+Bereavement: up to 5 working days for immediate family
+Earned leave carry-forward sample cap: 30 days
+Verify maternity, adoption, holiday, and all statutory entitlements with HR and current law.

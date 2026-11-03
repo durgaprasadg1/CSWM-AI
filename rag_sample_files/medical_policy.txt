@@ -1,24 +1,59 @@
-COMPANY KNOWLEDGE BASE: MEDICAL AND WELLNESS BENEFITS
-Last updated: 15 October 2026
-Owner: Benefits Team
+ZORVEX TECHNOLOGIES — MEDICAL INSURANCE, HEALTH BENEFITS AND WELLNESS POLICY
+Policy ID HR-MED-002 | Version 2.0 | Effective 1 November 2026
+Owner: Benefits Team | Scope: Eligible India-based employees.
 
-1. Scope
-This fictional document summarizes example medical benefits for RAG practice.
+IMPORTANT: Fictional RAG training content. Actual coverage is determined only by the insurer's policy wording, schedule, endorsements, network list, and applicable law. Sample limits below are not guaranteed benefits or medical advice.
 
-2. Coverage
-Eligible full-time employees may enroll in the company-sponsored health plan. Coverage options, dependants, waiting periods, exclusions, and premiums are defined in the official plan documents.
+1. ELIGIBILITY AND ENROLLMENT
+Regular full-time employees are eligible subject to insurer enrollment rules. Interns, consultants, temporary employees, and dependants are covered only if expressly included. HR shares enrollment instructions after joining. Confirm the effective date on the insurer e-card before assuming coverage has started.
 
-3. Enrollment
-New employees should review plan options and complete enrollment within 30 days of their start date. Employees who miss the window should contact the Benefits Team to understand whether a qualifying life event or the next enrollment period permits a change.
+2. DEPENDANTS
+The illustrative base plan covers the employee, legally married spouse, and up to two dependent children. Optional parent/parent-in-law coverage may be offered at additional premium. Age limits, dependency proof, family definitions, and enrollment windows are controlled by the insurer. Report marriage, birth, adoption, or dependant changes within 30 days.
 
-4. Claims
-Employees should submit claims through the insurer's official portal and retain receipts and supporting documents. Claim approval is determined by the insurer and the plan terms.
+3. SUM INSURED AND TOP-UP
+Illustrative base group cover: INR 5,00,000 per family per policy year, shared among covered members. Optional top-up bands may be INR 5,00,000 or INR 10,00,000. Deductibles, co-payments, room-rent limits, sub-limits, and waiting periods are insurer-specific. These amounts are invented sample values.
 
-5. Emergency situations
-For a medical emergency, contact local emergency services or go to the nearest emergency facility. Do not wait for HR approval before seeking emergency care.
+4. INPATIENT HOSPITALIZATION
+Subject to the policy, cover may include medically necessary hospitalization, room and nursing charges within limits, surgeon/consultant fees, operation theatre, prescribed medicines, diagnostics, and eligible treatment. Minimum hospitalization periods and room-category restrictions may apply. Confirm network status and pre-authorization for planned admission.
 
-6. Privacy
-Employees should share medical information only through approved confidential channels. Managers generally need work-related accommodation information, not unnecessary clinical details.
+5. DAY-CARE PROCEDURES
+Listed procedures not requiring 24-hour admission may be covered, such as dialysis, chemotherapy, radiotherapy, cataract surgery, and specified endoscopic procedures. Only procedures listed by the insurer and meeting medical-necessity rules qualify.
 
-7. Disclaimer
-This is synthetic training content and does not describe a real insurance plan.
+6. PRE- AND POST-HOSPITALIZATION
+Illustrative sample: eligible expenses up to 30 days before and 60 days after an approved hospitalization, when related to the same illness/injury and permitted by the plan. Submit prescriptions, test reports, bills, and discharge summary. Verify actual time limits in the policy schedule.
+
+7. MATERNITY AND NEWBORN COVER
+If included, maternity cover may reimburse eligible delivery and pregnancy-related hospitalization subject to sub-limits, waiting periods, number-of-child conditions, and exclusions. Illustrative limits: INR 75,000 normal delivery and INR 1,00,000 caesarean delivery. Newborn cover may start at birth or another date specified by the insurer. Notify HR promptly after birth to add the child. Maternity insurance is separate from statutory maternity leave.
+
+8. OUTPATIENT, DENTAL AND VISION
+Routine OPD, dental, and vision costs are not automatically covered by the sample base plan. A separate rider may reimburse up to INR 5,000 per employee per year for eligible consultations, prescribed medicines, basic dental treatment, or eye examination. Cosmetic procedures and non-prescribed products are excluded unless explicitly included.
+
+9. MENTAL HEALTH AND COUNSELLING
+The sample Employee Assistance Programme provides up to 6 confidential counselling sessions per year, subject to provider availability. EAP sessions are separate from insurance claims. Psychiatric consultations, therapy, and hospitalization are covered only as stated in the insurance policy and applicable law. Managers do not receive counselling details. For emergencies, contact local emergency services or a qualified provider.
+
+10. PREVENTIVE CARE AND WELLNESS
+The Company may arrange one annual preventive check-up for eligible employees aged 25 and above, subject to vendor and plan terms. Wellness initiatives may include vaccination information, ergonomics, fitness, nutrition, and stress-management sessions. Participation is voluntary unless a lawful role-specific occupational check is required.
+
+11. CASHLESS HOSPITALIZATION
+For planned admission, use a network hospital and ask its insurance desk to submit pre-authorization before admission. Carry e-card and identity proof. Cashless approval is not final claim settlement; the insurer may reassess after discharge. In emergencies, seek care first and notify insurer/TPA as soon as practical within its stated deadline.
+
+12. REIMBURSEMENT CLAIMS
+Where reimbursement is permitted, submit the claim form, e-card, discharge summary, itemized final bill, payment receipts, prescriptions, investigation reports, pharmacy bills, and required bank details through the official secure portal. Submit within the insurer deadline. Keep originals until settlement. Never send records to unverified email addresses.
+
+13. CLAIM QUERIES, REJECTION AND APPEAL
+The insurer/TPA evaluates medical necessity, coverage, exclusions, waiting periods, sub-limits, and documentation. Respond to queries through the official portal. If rejected, request written reasons and the relevant policy clause, then use the insurer grievance process and applicable regulator escalation route. HR can help locate documents but cannot guarantee approval.
+
+14. EXCLUSIONS AND LIMITATIONS
+Depending on wording, exclusions may include non-medical consumables, cosmetic treatment, non-prescribed supplements, routine OPD without rider, excluded providers, costs above sub-limits, applicable waiting periods, and non-medically necessary treatment. The actual policy wording controls.
+
+15. PRE-EXISTING CONDITIONS AND DISCLOSURE
+Waiting periods and disclosure requirements vary. Answer insurer enrollment questions accurately. Ask the insurer/TPA for written clarification before planned treatment. HR should not collect unnecessary diagnosis details.
+
+16. WORKPLACE ACCOMMODATION
+Employees needing temporary or ongoing adjustments should contact HR. The Company considers reasonable adjustments based on role, safety, medical recommendations, and applicable law. Managers generally need functional restrictions and expected duration, not detailed clinical records.
+
+17. PRIVACY AND SECURITY
+Medical records and claim data are sensitive. Insurer, TPA, and authorized Benefits personnel may process information for enrollment and claims. Access is restricted. Use approved confidential channels and never share another employee's e-card.
+
+18. EMPLOYEE RESPONSIBILITIES AND CONTACTS
+Keep e-card accessible, update dependants, verify network hospitals, obtain pre-authorization, submit complete claims on time, retain receipts, and protect medical information. Contact Benefits Operations for enrollment and policy copies; contact insurer/TPA for claim status.

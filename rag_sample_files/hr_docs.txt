@@ -1,23 +1,48 @@
-COMPANY KNOWLEDGE BASE: HR DOCUMENTS
-Last updated: 15 October 2026
-Owner: Human Resources
+ZORVEX TECHNOLOGIES — EMPLOYEE DOCUMENTATION AND HR RECORDS POLICY
+Policy ID HR-OPS-004 | Version 2.0 | Effective 1 November 2026
+Owner: HR Operations
 
-1. Purpose
-This fictional guide lists common documents requested during employee onboarding.
+1. PURPOSE
+This guide covers documents collected during recruitment, onboarding, employment, payroll, benefits, and separation. It is fictional training content; actual requirements depend on law, role, and employing entity.
 
-2. Documents commonly required
-- Government-issued identity and address proof, where legally permitted and required.
-- Tax and payroll forms applicable to the employee's location.
-- Bank account details for salary payment, submitted through the approved secure HR channel.
-- Education or professional certificates when relevant to the role.
-- Signed offer letter, employment agreement, and required policy acknowledgements.
-- Emergency contact details.
+2. PRE-JOINING DOCUMENTS
+Depending on the role and legal requirements, HR may request identity/address proof, photograph, education certificates, professional licences, previous employment/relieving letters, signed offer and employment agreement, tax declarations, bank details, emergency contact, and benefit nomination forms. Collect only information needed for a defined purpose.
 
-3. Submission rules
-Employees should upload documents to the official HR portal or submit them directly to an authorized HR representative. Do not send sensitive documents to unknown email addresses or public chat channels.
+3. IDENTITY AND ADDRESS VERIFICATION
+Submit accepted documents through the official secure HR portal. HR checks name and relevant details and asks the employee to resolve discrepancies. Do not retain original identity documents unless legally required. Never post identity numbers in public channels.
 
-4. Corrections
-If a document contains an error, contact HR and request a correction. Do not alter official documents yourself.
+4. EDUCATION AND EMPLOYMENT VERIFICATION
+Where relevant, an approved provider may verify degrees, certificates, employment dates, titles, and credentials. Inform the employee and provide a fair opportunity to explain material discrepancies. Reports are confidential and access-controlled.
 
-5. Privacy
-HR documents contain personal information. Access should be limited to authorized personnel with a legitimate business need. This sample does not represent legal advice or a real company's policy.
+5. PAYROLL AND TAX RECORDS
+Employees provide bank details, tax declarations, and legally required payroll information through the approved payroll system. Update changes promptly. HR/Payroll must restrict access to salary, tax, and bank records. HR will never ask for bank PINs, passwords, or OTPs.
+
+6. STATUTORY AND BENEFIT ENROLLMENT
+HR may collect information required for provident fund, employee state insurance, gratuity, professional tax, insurance, nominee, and other statutory/benefit administration. Applicability depends on establishment coverage, wage thresholds, employee category, and current law. Do not assume every scheme applies to every employee.
+
+7. EMPLOYMENT AGREEMENT AND POLICY ACKNOWLEDGEMENTS
+The agreement may specify role, compensation, location, working hours, probation, notice period, confidentiality, intellectual property, and employment conditions. Employees may acknowledge Code of Conduct, information security, acceptable use, privacy, anti-harassment, leave, and expense policies.
+
+8. EMERGENCY CONTACTS AND NOMINEES
+Provide an emergency contact and update it when needed. Complete statutory or benefit nominations where required. Use this information only for legitimate emergency or administrative purposes.
+
+9. PERSONAL INFORMATION CHANGES
+Notify HR of legal name, address, phone, bank account, tax status, dependant, nominee, or emergency-contact changes. Submit supporting evidence securely. HR verifies and confirms the update.
+
+10. DOCUMENT SECURITY
+Use only the HR portal or a verified HR representative. Do not send sensitive documents through public chat, personal email, or unverified links. HR applies role-based access, encryption where available, audit logs, and secure deletion.
+
+11. CORRECTIONS AND EMPLOYEE ACCESS
+Raise a ticket identifying the incorrect field and supporting evidence. HR should acknowledge within 3 working days and provide an expected resolution date. Employees must not alter official records or forge, backdate, or falsify documents. Access requests are handled subject to law and security checks.
+
+12. CONFIDENTIALITY AND RETENTION
+Employment, identity, payroll, medical, disciplinary, and background-check records have restricted access. Retain records only for legitimate employment, statutory, audit, and dispute-resolution periods under the records schedule.
+
+13. EMPLOYEE SELF-SERVICE
+The HR portal may provide payslips, tax statements, leave balances, holiday calendars, policy acknowledgements, personal details, and benefit enrollment. Report missing or incorrect data to HR Operations.
+
+14. SEPARATION DOCUMENTS
+At exit, HR coordinates resignation acceptance, notice records, asset return, access removal, final settlement, tax documents, experience/relieving letter where applicable, and benefit closure. Timing and deductions follow applicable law and contract.
+
+15. ESCALATION
+For portal access, corrections, payroll records, or verification questions, raise an HR Operations ticket. Report suspected identity theft or unauthorized disclosure immediately through the security incident channel.

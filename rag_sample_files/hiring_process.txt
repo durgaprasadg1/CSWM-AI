@@ -1,24 +1,51 @@
-COMPANY KNOWLEDGE BASE: HIRING PROCESS
-Last updated: 15 October 2026
+ZORVEX TECHNOLOGIES — RECRUITMENT, SELECTION AND OFFER MANAGEMENT POLICY
+Policy ID HR-REC-003 | Version 2.0 | Effective 1 November 2026
 Owner: Talent Acquisition
 
-1. Purpose
-This document explains the standard hiring process for full-time employees at ExampleTech. It is a fictional sample policy created for RAG learning.
+1. PURPOSE AND SCOPE
+Defines a fair, consistent, documented hiring process for permanent, fixed-term, internship, and contract roles. Fictional training content; local law and approved employment terms prevail.
 
-2. Hiring stages
-- Role approval: The hiring manager submits a role request with the job description, level, budget, and business justification.
-- Recruiter screening: Talent Acquisition reviews applications and conducts an initial discussion about experience, availability, and compensation expectations.
-- Technical or role assessment: Candidates complete a role-relevant interview, exercise, or assessment.
-- Interview panel: The hiring manager and panel assess skills using the same role criteria.
-- Reference and background checks: These checks are conducted only with the candidate's consent and according to applicable law.
-- Offer approval: Compensation and role details must be approved before an offer is sent.
-- Onboarding: After acceptance, HR coordinates documentation, equipment, and the joining schedule.
+2. HEADCOUNT AND ROLE APPROVAL
+The hiring manager submits a requisition with business justification, role title, level, location, employment type, reporting manager, job description, budget, headcount approval, and target joining date. Finance and authorized business leadership approve budget before sourcing. Replacement roles identify the vacancy being replaced. Unapproved roles must not be advertised as confirmed vacancies.
 
-3. Typical timeline
-A standard hiring cycle may take 2–4 weeks, but timelines vary by role, interview availability, and background checks. This is an estimate, not a guarantee.
+3. JOB DESCRIPTION AND ADVERTISING
+A job description states responsibilities, essential/desirable skills, experience, location, work arrangement, employment type, and selection stages. Requirements must be job-related and inclusive. Talent Acquisition approves public postings and agency briefs. Internal candidates may apply through internal mobility.
 
-4. Candidate communication
-Recruiters should share the next step and an estimated response date after each interview. Candidates may contact their recruiter for a status update.
+4. SOURCING CHANNELS
+Candidates may come from the careers page, employee referrals, campus hiring, professional networks, approved agencies, and permitted job portals. Record the source and avoid duplicate profiles. Referral incentives are governed by the separate referral programme; referral does not guarantee selection.
 
-5. Exceptions
-Urgent hiring or senior roles may use a modified process if Talent Acquisition and the hiring manager approve it.
+5. APPLICATION SCREENING
+Review relevant experience, skills, qualifications, location, availability, and role requirements. Use consistent criteria for candidates applying to the same role. Do not use unrelated sensitive personal characteristics. Inform candidates if more information is needed.
+
+6. INTERVIEWS
+A typical process includes recruiter discussion, technical/functional assessment, hiring-manager interview, and panel or leadership discussion where appropriate. Interviewers use role-related questions and documented scorecards. Submit feedback within 2 working days. Disclose conflicts of interest. Do not ask prohibited or irrelevant personal questions.
+
+7. TECHNICAL AND ROLE ASSESSMENTS
+Assessments must be proportionate and time-bounded. Tell candidates the expected duration, criteria, permitted tools, and deadline. Unpaid production work for commercial benefit is prohibited. Store candidate work securely and delete it according to retention rules.
+
+8. BACKGROUND AND REFERENCE CHECKS
+Checks are conducted only when relevant, with appropriate notice, consent, and legal basis. They may include employment history, education, professional credentials, and legally permitted identity or criminal checks. Review discrepancies fairly and allow the candidate to explain before an adverse decision. Restrict access to reports.
+
+9. SELECTION AND COMPENSATION
+The hiring manager documents selection rationale against role criteria. Compensation must fit the approved range and internal equity principles. Exceptions require HR and designated business approval. Recruiters must not promise unapproved salary, bonus, stock, title, remote work, or joining terms.
+
+10. OFFER APPROVAL AND RELEASE
+Before release, approve requisition, selection, compensation, title, location, joining date, and employment type. Use an authorized offer template. Only designated HR representatives may issue or amend formal offers. Verbal discussions do not replace a signed offer.
+
+11. ACCEPTANCE AND PRE-JOINING
+Candidate signs and returns the offer by the stated deadline and completes pre-joining tasks. HR coordinates identity and payroll documentation through secure channels. Disclose contingencies such as verification or work authorization where applicable.
+
+12. ONBOARDING HANDOVER
+Talent Acquisition hands the case to HR Operations and the hiring manager. Handover includes approved role details, joining date, reporting structure, equipment, access requirements, and agreed accommodations. Manager prepares a first-week plan and assigns a buddy where applicable.
+
+13. CANDIDATE COMMUNICATION
+Acknowledge applications, explain next steps, and provide status updates where reasonably possible. Send respectful closure to rejected candidates. Candidate data must not be shared with unauthorized parties.
+
+14. INTERNAL CANDIDATES AND ACCESSIBILITY
+Assess internal applicants against the same essential criteria. Do not retaliate against employees exploring internal roles. Candidates may request reasonable interview or assessment accommodations; Talent Acquisition coordinates them confidentially.
+
+15. RECORDS AND RETENTION
+Maintain requisition approvals, job descriptions, scorecards, assessment results, offer approvals, and candidate communications. Access is role-based. Retention and deletion follow the Company records schedule and applicable privacy law.
+
+16. EXCEPTIONS AND ESCALATION
+Urgent or executive hiring may use an adjusted sequence only with documented HR and business approval. Report suspected discrimination, conflicts of interest, data misuse, or process manipulation to HR leadership or the ethics channel.

@@ -1,28 +1,62 @@
-COMPANY KNOWLEDGE BASE: TECHNICAL SUPPORT AND ACCESS
-Last updated: 15 October 2026
-Owner: IT Operations
+ZORVEX TECHNOLOGIES — IT OPERATIONS AND INFORMATION SECURITY POLICY
+Policy ID IT-SEC-006 | Version 2.0 | Effective 1 November 2026
+Owner: IT and Information Security
 
-1. Account access
-Use single sign-on (SSO) for supported company applications. Enable multi-factor authentication (MFA) wherever required. Never share passwords, recovery codes, or authentication tokens.
+1. PURPOSE AND SCOPE
+This policy covers accounts, access, devices, data handling, email, remote work, software development, incidents, backups, vendors, and production changes. Fictional RAG training content.
 
-2. Access requests
-Submit access requests through the IT service desk. Include the application name, business justification, required role, manager approval when applicable, and the duration for temporary access.
+2. IDENTITY AND ACCESS
+Use assigned corporate identity and SSO. MFA is mandatory on supported systems. Shared accounts are prohibited unless formally approved and controlled. Never share passwords, recovery codes, API keys, session cookies, or OTPs.
 
-3. Troubleshooting
-- Check the service status page for a known outage.
-- Confirm network connectivity and whether the issue affects one application or several.
-- Capture the exact error message and timestamp.
-- Avoid posting secrets, customer data, or access tokens in tickets.
-- If the issue persists, open a service desk ticket with safe diagnostic details.
+3. ACCESS REQUESTS
+Submit application, business justification, requested role, duration, data classification, and manager approval through the service desk. System owners approve least-privilege access. Privileged access needs additional approval and stronger authentication. Temporary access must expire automatically.
 
-4. Incident severity
-P1: Critical service unavailable for many users or major business operations.
-P2: Major degradation with a significant workaround or limited scope.
-P3: Individual or limited-impact issue with a reasonable workaround.
-P4: General question or low-priority request.
+4. JOINER, MOVER, LEAVER
+HR triggers onboarding and separation workflows. IT provisions approved access, adjusts permissions on role changes, and promptly disables accounts at separation or authorized instruction. Managers must report transfers and departures. Rotate exposed secrets immediately.
 
-5. Security incidents
-Report suspected phishing, lost devices, exposed credentials, or unauthorized access to the security team immediately using the official incident reporting channel.
+5. PASSWORDS AND MFA
+Use unique passwords and an approved password manager. Do not reuse corporate passwords on personal sites. Reject unexpected MFA prompts. Report repeated prompts, phishing, or account lockouts. IT will never ask for passwords or OTPs in chat.
 
-6. Change management
-Production changes require an approved change record, a rollback plan, and appropriate testing unless an authorized emergency process applies.
+6. DEVICE SECURITY
+Company devices must use supported operating systems, screen locks, disk encryption, endpoint protection, and security updates. Do not disable controls or install unapproved software. Report lost/stolen devices immediately for session revocation or authorized remote wipe.
+
+7. DATA CLASSIFICATION
+Public: approved for public release.
+Internal: routine information for employees and approved partners.
+Confidential: business plans, non-public financial data, customer contracts, operational information.
+Restricted: credentials, personal data, payment data, security secrets, and regulated information.
+Apply suitable access, encryption, sharing, retention, and deletion controls.
+
+8. STORAGE AND SHARING
+Use approved Company storage. Share only with intended recipients and minimum permissions. Public links for Confidential/Restricted data are prohibited unless a documented exception is approved. Verify recipients. Do not upload Company data to personal cloud or unapproved AI services.
+
+9. EMAIL AND PHISHING
+Be cautious with unexpected attachments, login links, payment instructions, and credential requests. Verify unusual requests using a separate trusted channel. Report suspicious messages using the mail client or Security service desk. Do not forward malicious files to colleagues.
+
+10. NETWORK AND REMOTE WORK
+Use approved VPN or zero-trust access where required. Avoid untrusted public Wi-Fi for sensitive work unless approved protection is active. Secure devices physically and do not let others use corporate devices. Report suspected compromise.
+
+11. SOFTWARE DEVELOPMENT AND SECRETS
+Use approved repositories. Never commit secrets, keys, tokens, or production data. Use a secrets manager and scoped service identities. Review dependencies, scan code, and restrict production access. Security testing must stay within authorized scope.
+
+12. CHANGE AND RELEASE MANAGEMENT
+Production changes require an approved change record, risk assessment, testing evidence, deployment/monitoring plan, and rollback procedure. Emergency changes may use expedited approval but must be documented and reviewed afterward. Unapproved direct production changes are prohibited.
+
+13. INCIDENT REPORTING
+Immediately report phishing, malware, lost devices, exposed credentials, unauthorized access, data leakage, or unusual activity through the official Security channel. Include time, system, symptoms, and safe evidence. Do not destroy logs or investigate beyond authority.
+
+14. SERVICE DESK PRIORITY
+P1: critical outage or active broad-impact security incident.
+P2: major degradation or important function unavailable.
+P3: limited impact with workaround.
+P4: general question or low-priority request.
+Security incidents may be escalated independently of normal priority.
+
+15. BACKUP AND RECOVERY
+System owners define backup frequency, retention, encryption, RPO, and RTO. Restrict backup access and test restoration periodically. A successful backup job alone does not prove recoverability.
+
+16. THIRD-PARTY ACCESS
+Vendor access needs a business owner, contract/approval, least privilege, expiry, and monitoring. Disable access when work ends or the agreement expires.
+
+17. ACCEPTABLE USE AND EXCEPTIONS
+Limited personal use may be allowed if lawful, secure, and non-disruptive. Harassment, unlawful content, piracy, bypassing controls, fraud, and unauthorized monitoring are prohibited. Exceptions require documented justification, risk acceptance, compensating controls, and expiry date. Violations may result in access suspension or disciplinary review.

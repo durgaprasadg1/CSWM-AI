@@ -1,29 +1,58 @@
-COMPANY KNOWLEDGE BASE: ROOT CAUSE ANALYSIS (RCA)
-Last updated: 15 October 2026
+ZORVEX TECHNOLOGIES — INCIDENT MANAGEMENT AND ROOT CAUSE ANALYSIS STANDARD
+Policy ID ENG-RCA-005 | Version 2.0 | Effective 1 November 2026
 Owner: Engineering Operations
 
-1. Purpose
-A Root Cause Analysis (RCA) documents what happened during an incident, why it happened, how it was resolved, and what will prevent recurrence.
+1. PURPOSE
+Defines detection, severity, response, communication, recovery, post-incident review, and corrective action tracking. Fictional technical training content.
 
-2. Required sections
-- Incident summary and customer impact.
-- Start time, detection time, mitigation time, and resolution time.
-- Systems and services affected.
-- Timeline of important events.
-- Root cause and contributing factors.
-- Immediate remediation.
-- Corrective and preventive actions, each with an owner and due date.
-- Lessons learned.
+2. DEFINITIONS
+Incident: unplanned interruption or degradation.
+Major incident: significant customer, security, financial, regulatory, or operational impact.
+Root cause: underlying condition that made the incident possible.
+Contributing factor: condition increasing likelihood, duration, or impact.
+Mitigation: action reducing impact without necessarily removing root cause.
 
-3. Blameless approach
-Focus on system conditions, technical causes, process gaps, and safeguards rather than assigning personal blame. Be factual and distinguish confirmed evidence from hypotheses.
+3. SEVERITY
+SEV-1 Critical: broad outage, major data integrity issue, active compromise, or severe business impact. Immediate incident command and executive notification.
+SEV-2 High: significant degradation of important service or customer group, limited workaround.
+SEV-3 Medium: limited impact or viable workaround.
+SEV-4 Low: minor defect or informational event.
+Incident commander may change severity and must record rationale.
 
-4. Example
-Incident: Internal reporting API returned HTTP 503 for 18 minutes.
-Impact: Some dashboard refreshes failed.
-Root cause: A deployment changed the connection pool limit without load testing.
-Mitigation: Roll back the deployment and restore the previous pool configuration.
-Prevention: Add load-test coverage and an alert for connection-pool saturation.
+4. DETECTION AND DECLARATION
+Sources include monitoring, customer reports, service desk, security tools, and employee observations. Record time, service, symptoms, and evidence. Notify on-call engineer and incident commander immediately for suspected SEV-1/SEV-2.
 
-5. Follow-up
-Action owners should update the incident tracker until each preventive action is completed. Engineering Operations reviews overdue high-priority actions weekly.
+5. ROLES
+Incident Commander coordinates priorities and response.
+Technical Lead directs diagnosis and remediation.
+Communications Lead sends approved updates.
+Scribe records timeline and decisions.
+Service Owner validates recovery and follow-up.
+Responsibilities must be explicit, even when one person holds multiple roles.
+
+6. RESPONSE WORKFLOW
+Acknowledge alert; declare severity; open incident channel and record; assess scope and impact; stabilize; choose mitigation; communicate; verify recovery; monitor; close operational incident; schedule review. Preserve evidence without exposing secrets or unnecessary personal data.
+
+7. COMMUNICATION
+For SEV-1, internal updates at least every 30 minutes; SEV-2 at least hourly while impact continues. State known impact, actions, workaround, and next update time. Do not speculate or assign blame. Customer communications follow the approved plan.
+
+8. RCA REQUIRED SECTIONS
+Incident ID/title; date; severity; service owner/authors; executive summary; customer impact; start/detection/mitigation/resolution times; timeline; technical root cause; contributing factors; detection gaps; what went well; what failed; remediation; lessons learned; action owners and due dates. Separate confirmed facts from hypotheses.
+
+9. BLAMELESS REVIEW
+Focus on system conditions, design, safeguards, monitoring, documentation, and process. Do not attribute failure to personal character or intent. Misconduct and security investigations follow separate confidential processes.
+
+10. CORRECTIVE ACTIONS
+Every action needs description, priority, accountable owner, due date, tracking ticket, and measurable completion criteria. Valid actions include tests, code fixes, capacity changes, alerts, runbook updates, access changes, training, or architecture work. "Be more careful" is not an acceptable action.
+
+11. REVIEW DEADLINES
+Review SEV-1/SEV-2 incidents normally within 5 working days and useful SEV-3 reviews within 10 working days. Publish approved RCA after security/privacy review. Track overdue actions in engineering reviews.
+
+12. SECURITY AND DATA INCIDENTS
+Report suspected exposure, credential compromise, malware, or unauthorized access immediately through Security process. Do not delete logs, independently notify external parties, or investigate beyond authority. Legal/privacy teams decide regulatory notifications.
+
+13. EXAMPLE
+A reporting API returns HTTP 503 for 18 minutes after deployment changes connection-pool limit. Rollback restores service. Root cause includes missing load test and absent saturation alert. Actions: add load test, alert, deployment checklist, owners, and due dates.
+
+14. RECOVERY AND METRICS
+Service owner verifies health checks, error rates, latency, queue depth, and customer functionality. Track time to acknowledge, time to mitigate, recurrence, change-related incidents, action completion, and alert quality. Use metrics to improve systems, not rank individuals without context.

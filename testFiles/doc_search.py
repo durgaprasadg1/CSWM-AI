@@ -87,6 +87,7 @@ def test_search(user_query, documents, k = 3):
 
 
 documents = load_all_files_from_folder(KNOWLEDGE_BASE_FOLDER)
+print(documents[0])
 documnents_with_embeddings = add_embeddings_to_documents(documents)
 
 print(f"we have embedded {len(documents)} documents" )

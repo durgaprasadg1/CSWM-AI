@@ -15,6 +15,8 @@ response = client.embeddings.create(
     # input="I am a good boy"
     input=["I am a good boy", "I love you"]
 )
-print(response.data[0].embedding)
-print("--------------------------------------------")
-print(response.data[1].embedding)
+
+
+print("generating response : " ,response.data[0].embedding)
+# print("--------------------------------------------")
+# print(response.data[1].embedding)

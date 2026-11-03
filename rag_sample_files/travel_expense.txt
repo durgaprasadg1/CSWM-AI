@@ -1,27 +1,58 @@
-COMPANY KNOWLEDGE BASE: TRAVEL AND EXPENSE REIMBURSEMENT
-Last updated: 15 October 2026
+ZORVEX TECHNOLOGIES — BUSINESS TRAVEL AND EXPENSE REIMBURSEMENT POLICY
+Policy ID FIN-TRV-007 | Version 2.0 | Effective 1 November 2026
 Owner: Finance Operations
 
-1. Scope
-This fictional policy is intended for testing RAG retrieval and question answering.
+1. PURPOSE
+Covers travel approval, booking, accommodation, meals, transport, claims, reimbursement, advances, exceptions, and audit. Fictional RAG training content; all sample limits must be replaced by actual approved limits.
 
-2. Before booking
-Obtain manager approval before making business travel commitments. Prefer approved booking channels and reasonable, cost-effective options that meet business needs.
+2. PRE-TRAVEL APPROVAL
+Obtain written manager approval before booking. Request must state business purpose, destination, dates, attendees, estimated cost, project/cost centre, and expected outcome. International travel may require business-head, Finance, Legal, or security approval. Personal extensions must be separated from Company costs.
 
-3. Example spending limits
-- Hotel: up to INR 6,000 per night before taxes, unless an exception is approved.
-- Meals during approved business travel: up to INR 1,200 per day.
-- Local ground transport: reasonable actual costs with receipts where available.
-These are invented sample limits, not real company rules.
+3. BOOKING PRINCIPLES
+Use approved portal/agency where available. Choose safe, reasonable, cost-effective options. Compare total cost, cancellation terms, travel time, and baggage. Do not split bookings to avoid approval thresholds.
 
-4. Expense submission
-Submit expenses in the expense portal within 15 calendar days after the trip ends. Include the business purpose, date, category, amount, currency, and itemized receipt when required.
+4. AIR AND RAIL
+Sample default is economy class for domestic and international flights. Premium economy/business class requires documented exception approval for journey duration, medical accommodation, or business necessity. Rail class must be appropriate to duration and safety. Personal upgrades are not reimbursed unless approved.
 
-5. Reimbursement
-Finance reviews submissions for policy compliance and complete documentation. Incomplete claims may be returned for correction. Approved reimbursements are normally processed in the next scheduled payment cycle.
+5. HOTEL
+Illustrative domestic hotel ceiling: INR 6,000/night before taxes. Higher cost requires prior written approval. Choose safe accommodation near work location. Minibar, entertainment, spa, guest charges, and personal upgrades are excluded unless approved.
 
-6. Exceptions
-Obtain written approval for expenses above the sample limits before spending when practical. Explain unavoidable exceptions in the claim.
+6. MEALS AND INCIDENTALS
+Illustrative meal ceiling: INR 1,200 per travel day. Alcohol, personal shopping, tobacco, and non-business guest meals are excluded. Client meals require attendee names, business purpose, itemized receipt, and manager approval. Tips must be reasonable.
 
-7. Non-reimbursable items
-Personal entertainment, personal shopping, traffic fines, and expenses unrelated to business are not reimbursable under this sample policy.
+7. LOCAL TRANSPORT
+Reasonable taxi, rideshare, public transit, airport transfer, and parking may be reimbursed for approved business travel. Personal commuting, traffic fines, and avoidable premium transport are excluded. Obtain receipts where available.
+
+8. PERSONAL VEHICLE
+Prior manager approval is required. Employee must hold valid licence and insurance. Illustrative mileage rate: INR 10/km, subject to Finance confirmation. Record date, route, purpose, and distance. Tolls and parking may be claimed separately with receipts.
+
+9. CLAIM SUBMISSION
+Submit through expense portal within 15 calendar days after trip end. Each line needs date, merchant, category, amount, currency, business purpose, cost centre, and required receipt. Use approved exchange-rate method. Duplicate claims are prohibited.
+
+10. SUPPORTING DOCUMENTS
+Attach itemized invoices, payment proof, booking confirmation, boarding pass where applicable, approval record, and attendee details for business meals. Explain missing receipts and provide alternative evidence. Finance may reject unsupported or illegible claims.
+
+11. REVIEW AND REIMBURSEMENT
+Finance checks approvals, policy compliance, arithmetic, receipt quality, duplicates, tax treatment, and cost centre. Incomplete claims may be returned. Approved claims are normally paid in the next scheduled cycle, subject to payroll cut-off and bank processing.
+
+12. ADVANCES AND COMPANY CARDS
+Advances require approval and reconciliation within 15 calendar days after return. Company cards are for approved business costs only. Upload receipts and explain unusual transactions. Report lost cards immediately to issuer and Finance.
+
+13. CANCELLATIONS AND CHANGES
+Cancel unused bookings promptly. Company-funded refunds and credits belong to the Company. Do not retain travel credits for personal use. Business-related change fees may be reimbursed with approval.
+
+14. NON-REIMBURSABLE COSTS
+Personal entertainment/shopping, traffic fines, penalties, tobacco, alcohol unless specifically approved for a permitted business event, companion travel, avoidable no-show fees, and non-business costs are excluded.
+
+15. EXCEPTIONS AND EMERGENCIES
+Get written approval before exceeding limits where practical. If emergency prevents prior approval, notify manager and Finance promptly and submit explanation/evidence. Finance records exception decision.
+
+16. FRAUD AND AUDIT
+Falsified receipts, duplicate claims, personal expenses presented as business, or misuse of advances may trigger investigation and disciplinary action. Finance may audit claims and request original evidence.
+
+17. TAX AND COMPLIANCE
+Provide accurate information for tax/statutory reporting. Finance determines tax treatment under applicable law. Reimbursement is not automatically tax-free.
+
+18. QUICK REFERENCE — FICTIONAL SAMPLE LIMITS
+Hotel: INR 6,000/night | Meals: INR 1,200/day | Personal vehicle: INR 10/km
+Claim deadline: 15 calendar days after trip completion.
